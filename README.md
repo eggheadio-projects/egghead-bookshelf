@@ -1,4 +1,4 @@
-# [Add Internationalization (i18n) to a React app using React Intl]([https://egghead.io/courses/build-async-vue-js-apps-with-rxjs](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl))
+# [Add Internationalization (i18n) to a React app using React Intl](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl)
 
 All scripts are run in the root package.
 
